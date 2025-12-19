@@ -160,7 +160,7 @@ const App: React.FC = () => {
               </div>
               <div className="w-full md:w-2/3">
                 <p className="text-lg font-light text-gray-600 leading-relaxed mb-4">
-                  Finalmente, la mirada hacia el futuro profesional está ahora mediada por los <strong>Design Systems</strong>. Entiendo ahora que la escalabilidad y la accesibilidad (WCAG) no son complementos, sino requisitos éticos del diseñador digital. La comunicación visual debe ser inclusiva por defecto, y eso solo se logra mediante la creación de componentes modulares y sistemas de diseño coherentes.
+                  Finalmente, la mirada hacia el futuro profesional está ahora mediada para la <strong>Ingenieria de Sistemas</strong>. Entiendo ahora que la escalabilidad y la accesibilidad (WCAG) no son complementos, sino requisitos éticos del diseñador digital. La comunicación visual debe ser inclusiva por defecto, y eso solo se logra mediante la creación de componentes modulares y sistemas de diseño coherentes.
                 </p>
                 <div className="p-10 bg-[#FDF5F5] rounded-3xl border-l-8 border-[#E97C85] mt-8">
                    <p className="text-xl font-medium text-[#2B2B2B] italic leading-relaxed">
